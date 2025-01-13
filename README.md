@@ -1,10 +1,13 @@
-#  analyst trying to turn data chaos into clarity.
+# Analyst trying to turn data chaos into clarity.
 
 Welcome to my data analytics portfolio! Below are some of the tools I work with:
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
@@ -18,7 +21,18 @@ Welcome to my data analytics portfolio! Below are some of the tools I work with:
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
+  <img src="https://5.imimg.com/data5/KO/UM/GLADMIN-66275087/ms-excel-basic-computer-courses-500x500.png" alt="Excel" width="40" height="40"/>
+  <a href="https://www.svgrepo.com/svg/331760/sql-database-generic" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="40" height="40"/>
+  </a>
 </p>
-
+SQL with PostgreSQL, MySQL, SQL Server for querying and managing databases.</p>
+Python with Jupy libraries like Pandas, NumPy, Matplotlib, Seaborn and Regex for data cleaning and analysis. </p>
+Excel  for data manipulation, analysis, and creating simple models.</p>
+Jupyter Notebook for creating and sharing live code, equations, visualizations, and narrative text.</p>
+Power BI  for creating interactive dashboards and reports.</p>
 
 Feel free to explore the projects in my repository!
