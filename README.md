@@ -1,4 +1,4 @@
-# Analyst trying to turn data chaos into clarity.
+# analyst trying to turn data chaos into clarity.
 
 Welcome to my data analytics portfolio! Below are some of the tools I work with:
 
