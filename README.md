@@ -29,10 +29,6 @@ Welcome to my data analytics portfolio! Below are some of the tools I work with:
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="40" height="40"/>
   </a>
 </p>
-SQL with PostgreSQL, MySQL, SQL Server for querying and managing databases.</p>
-Python with Jupy libraries like Pandas, NumPy, Matplotlib, Seaborn and Regex for data cleaning and analysis. </p>
-Excel  for data manipulation, analysis, and creating simple models.</p>
-Jupyter Notebook for creating and sharing live code, equations, visualizations, and narrative text.</p>
-Power BI  for creating interactive dashboards and reports.</p>
+Proficient in SQL (PostgreSQL, MySQL, SQL Server) for database management and querying. Skilled in Python with libraries like Pandas, NumPy, Matplotlib, Seaborn, and Regex for data analysis and cleaning. Experienced in Excel for data manipulation and modeling.    Capable of using Jupyter Notebook for live code, visualizations, and reports. Expert in Power BI for creating interactive dashboards</p>
 
 Feel free to explore the projects in my repository!
