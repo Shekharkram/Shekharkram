@@ -33,8 +33,6 @@ Welcome to my data analytics portfolio! Below are some of the tools I work with:
   </a>
 </p>
 
-Feel free to explore the projects in my repository!
-
 Proficient in SQL (PostgreSQL, MySQL, SQL Server) for database management and querying. Skilled in Python with libraries like Pandas, NumPy, Matplotlib, Seaborn, and Regex for data analysis and cleaning. Experienced in Excel for data manipulation and modeling. Capable of using Jupyter Notebook for live code, visualizations, and reports. Expert in Power BI for creating interactive dashboards</p>
 
 #**Feel free to explore the projects in my repository!**
